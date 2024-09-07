@@ -8,7 +8,3 @@ Este repositorio contiene el proyecto de implementación de un modelo DevSecOps 
 - *Código*: Ejemplos de integración de seguridad en WordPress y APIs, incluyendo simulación de una pasarela de pagos.
 - *Scripts y configuraciones*: Herramientas y configuraciones necesarias para el análisis de vulnerabilidades y pentesting.
 
-## Pasos para revisar y ejecutar el contenido:
-1. Clonar el repositorio usando:
-   ```bash
-   git clone https://github.com/tu-usuario/DevSecOps-ToCupboard.git
